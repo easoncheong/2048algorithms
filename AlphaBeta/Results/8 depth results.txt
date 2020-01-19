@@ -1,0 +1,1170 @@
+
+Sample Game 1:
+Final Score: 4428
+Logarithmic Performance: 10.144658242831882
+Max Tile Performance: 10.0
+Assigned PR: 10.0
+Final Position:
+[2, 16, 8, 4]
+[4, 64, 128, 16]
+[16, 32, 64, 4]
+[512, 4, 256, 2]
+
+Sample Game 2:
+Final Score: 4328
+Logarithmic Performance: 9.980139577639157
+Max Tile Performance: 10.0
+Assigned PR: 9.980139577639157
+Final Position:
+[2, 8, 4, 2]
+[16, 256, 32, 8]
+[4, 128, 16, 4]
+[8, 512, 8, 2]
+
+Sample Game 3:
+Final Score: 6244
+Logarithmic Performance: 10.649256177517314
+Max Tile Performance: 11.0
+Assigned PR: 10.649256177517314
+Final Position:
+[8, 4, 2, 4]
+[2, 128, 8, 16]
+[4, 8, 256, 4]
+[1024, 128, 8, 2]
+
+Sample Game 4:
+Final Score: 3860
+Logarithmic Performance: 9.794415866350105
+Max Tile Performance: 10.0
+Assigned PR: 9.794415866350105
+Final Position:
+[2, 8, 4, 2]
+[32, 64, 32, 4]
+[16, 128, 64, 8]
+[8, 2, 512, 2]
+
+Sample Game 5:
+Final Score: 864
+Logarithmic Performance: 8.554588851677638
+Max Tile Performance: 8.0
+Assigned PR: 8.0
+Final Position:
+[8, 16, 128, 2]
+[2, 32, 64, 32]
+[8, 16, 32, 8]
+[2, 8, 16, 2]
+
+Game 1:
+Final Score: 9556
+Logarithmic Performance: 10.839203788096944
+Max Tile Performance: 11.0
+Assigned PR: 10.839203788096944
+Final Position:
+[4, 16, 2, 4]
+[16, 128, 512, 2]
+[1024, 32, 4, 16]
+[2, 64, 2, 4]
+
+Game 2:
+Final Score: 5164
+Logarithmic Performance: 10.489847960439297
+Max Tile Performance: 11.0
+Assigned PR: 10.489847960439297
+Final Position:
+[1024, 256, 8, 2]
+[8, 64, 16, 4]
+[16, 8, 4, 2]
+[2, 4, 16, 4]
+
+Game 3:
+Final Score: 1972
+Logarithmic Performance: 9.430452551665532
+Max Tile Performance: 9.0
+Assigned PR: 9.0
+Final Position:
+[16, 8, 4, 2]
+[256, 32, 16, 64]
+[128, 8, 4, 2]
+[2, 16, 128, 4]
+
+Game 4:
+Final Score: 1836
+Logarithmic Performance: 9.252665432450248
+Max Tile Performance: 9.0
+Assigned PR: 9.0
+Final Position:
+[4, 2, 256, 2]
+[2, 16, 128, 32]
+[4, 32, 64, 8]
+[8, 16, 32, 4]
+
+Game 5:
+Final Score: 7680
+Logarithmic Performance: 10.991521846075695
+Max Tile Performance: 11.0
+Assigned PR: 10.991521846075695
+Final Position:
+[2, 8, 2, 4]
+[4, 32, 16, 8]
+[16, 64, 256, 64]
+[1024, 16, 512, 8]
+
+Game 6:
+Final Score: 7064
+Logarithmic Performance: 10.57553924683453
+Max Tile Performance: 11.0
+Assigned PR: 10.57553924683453
+Final Position:
+[4, 32, 2, 8]
+[256, 64, 8, 4]
+[16, 32, 64, 1024]
+[2, 4, 2, 4]
+
+Game 7:
+Final Score: 4640
+Logarithmic Performance: 10.457380879072534
+Max Tile Performance: 10.0
+Assigned PR: 10.0
+Final Position:
+[256, 2, 4, 2]
+[8, 32, 128, 16]
+[128, 256, 16, 512]
+[8, 32, 4, 2]
+
+Game 8:
+Final Score: 8284
+Logarithmic Performance: 10.661778097771988
+Max Tile Performance: 11.0
+Assigned PR: 10.661778097771988
+Final Position:
+[4, 8, 16, 1024]
+[2, 16, 32, 4]
+[256, 128, 64, 16]
+[8, 32, 8, 2]
+
+Game 9:
+Final Score: 13196
+Logarithmic Performance: 11.484822894262146
+Max Tile Performance: 12.0
+Assigned PR: 11.484822894262146
+Final Position:
+[2048, 16, 4, 2]
+[512, 128, 8, 4]
+[16, 64, 32, 16]
+[2, 8, 4, 2]
+
+Game 10:
+Final Score: 5484
+Logarithmic Performance: 10.52943055414615
+Max Tile Performance: 10.0
+Assigned PR: 10.0
+Final Position:
+[2, 512, 256, 2]
+[256, 128, 64, 128]
+[64, 32, 8, 4]
+[4, 8, 2, 8]
+
+Game 11:
+Final Score: 6132
+Logarithmic Performance: 10.211888294546004
+Max Tile Performance: 10.0
+Assigned PR: 10.0
+Final Position:
+[16, 32, 2, 4]
+[4, 2, 8, 512]
+[512, 32, 2, 32]
+[2, 8, 16, 2]
+
+Game 12:
+Final Score: 15868
+Logarithmic Performance: 11.287712379549449
+Max Tile Performance: 12.0
+Assigned PR: 11.287712379549449
+Final Position:
+[4, 8, 4, 2]
+[8, 16, 64, 256]
+[2048, 32, 8, 16]
+[2, 8, 16, 8]
+
+Game 13:
+Final Score: 2676
+Logarithmic Performance: 9.774787059601174
+Max Tile Performance: 9.0
+Assigned PR: 9.0
+Final Position:
+[2, 4, 256, 2]
+[4, 8, 16, 8]
+[256, 32, 256, 2]
+[2, 16, 4, 8]
+
+Game 14:
+Final Score: 3820
+Logarithmic Performance: 10.052568050804153
+Max Tile Performance: 10.0
+Assigned PR: 10.0
+Final Position:
+[4, 2, 4, 2]
+[8, 64, 16, 512]
+[2, 32, 128, 4]
+[4, 8, 256, 16]
+
+Game 15:
+Final Score: 2432
+Logarithmic Performance: 9.523561956057012
+Max Tile Performance: 9.0
+Assigned PR: 9.0
+Final Position:
+[2, 32, 256, 2]
+[16, 64, 32, 4]
+[8, 32, 16, 8]
+[2, 256, 4, 2]
+
+Game 16:
+Final Score: 3924
+Logarithmic Performance: 10.124121311829187
+Max Tile Performance: 10.0
+Assigned PR: 10.0
+Final Position:
+[4, 16, 4, 2]
+[32, 64, 32, 128]
+[4, 512, 256, 32]
+[8, 16, 4, 2]
+
+Game 17:
+Final Score: 4892
+Logarithmic Performance: 10.095397022792557
+Max Tile Performance: 10.0
+Assigned PR: 10.0
+Final Position:
+[2, 16, 4, 2]
+[4, 128, 32, 4]
+[16, 32, 64, 16]
+[2, 4, 256, 512]
+
+Game 18:
+Final Score: 4352
+Logarithmic Performance: 10.105908508571158
+Max Tile Performance: 10.0
+Assigned PR: 10.0
+Final Position:
+[2, 4, 2, 512]
+[4, 16, 8, 2]
+[16, 128, 256, 128]
+[2, 16, 4, 2]
+
+Game 19:
+Final Score: 9296
+Logarithmic Performance: 11.26795708440284
+Max Tile Performance: 11.0
+Assigned PR: 11.0
+Final Position:
+[1024, 512, 4, 2]
+[512, 256, 8, 4]
+[16, 64, 16, 8]
+[2, 4, 32, 2]
+
+Game 20:
+Final Score: 8480
+Logarithmic Performance: 10.729620743553038
+Max Tile Performance: 11.0
+Assigned PR: 10.729620743553038
+Final Position:
+[4, 16, 32, 1024]
+[2, 8, 64, 128]
+[8, 4, 256, 16]
+[2, 128, 4, 2]
+
+Game 21:
+Final Score: 2060
+Logarithmic Performance: 9.189824558880018
+Max Tile Performance: 9.0
+Assigned PR: 9.0
+Final Position:
+[128, 2, 8, 2]
+[8, 16, 32, 4]
+[2, 64, 8, 16]
+[256, 32, 4, 2]
+
+Game 22:
+Final Score: 8908
+Logarithmic Performance: 11.181152256865566
+Max Tile Performance: 11.0
+Assigned PR: 11.0
+Final Position:
+[1024, 4, 64, 4]
+[256, 512, 256, 2]
+[8, 128, 32, 16]
+[2, 8, 4, 2]
+
+Game 23:
+Final Score: 4176
+Logarithmic Performance: 10.071462362556623
+Max Tile Performance: 10.0
+Assigned PR: 10.0
+Final Position:
+[4, 16, 2, 4]
+[16, 128, 8, 32]
+[4, 256, 64, 8]
+[16, 512, 4, 2]
+
+Game 24:
+Final Score: 7536
+Logarithmic Performance: 10.390168956200183
+Max Tile Performance: 11.0
+Assigned PR: 10.390168956200183
+Final Position:
+[2, 32, 2, 4]
+[4, 16, 64, 16]
+[2, 32, 128, 4]
+[1024, 2, 8, 2]
+
+Game 25:
+Final Score: 9652
+Logarithmic Performance: 10.818582177480858
+Max Tile Performance: 11.0
+Assigned PR: 10.818582177480858
+Final Position:
+[1024, 8, 16, 2]
+[8, 32, 128, 8]
+[4, 16, 2, 512]
+[2, 4, 32, 8]
+
+Game 26:
+Final Score: 6876
+Logarithmic Performance: 10.560332834212442
+Max Tile Performance: 10.0
+Assigned PR: 10.0
+Final Position:
+[512, 256, 8, 2]
+[16, 32, 64, 8]
+[4, 64, 16, 4]
+[2, 8, 512, 2]
+
+Game 27:
+Final Score: 18744
+Logarithmic Performance: 11.987264012072538
+Max Tile Performance: 12.0
+Assigned PR: 11.987264012072538
+Final Position:
+[2048, 16, 4, 2]
+[1024, 32, 8, 4]
+[512, 64, 32, 8]
+[256, 32, 16, 2]
+
+Game 28:
+Final Score: 2856
+Logarithmic Performance: 9.471675214392045
+Max Tile Performance: 9.0
+Assigned PR: 9.0
+Final Position:
+[2, 4, 32, 8]
+[8, 128, 64, 128]
+[2, 16, 32, 256]
+[4, 8, 16, 2]
+
+Game 29:
+Final Score: 6464
+Logarithmic Performance: 10.991521846075695
+Max Tile Performance: 11.0
+Assigned PR: 10.991521846075695
+Final Position:
+[2, 16, 4, 2]
+[16, 32, 64, 128]
+[2, 128, 512, 1024]
+[8, 32, 64, 2]
+
+Game 30:
+Final Score: 4180
+Logarithmic Performance: 10.269126679149418
+Max Tile Performance: 10.0
+Assigned PR: 10.0
+Final Position:
+[512, 128, 4, 2]
+[256, 64, 8, 4]
+[2, 128, 16, 8]
+[4, 64, 32, 2]
+
+Game 31:
+Final Score: 8844
+Logarithmic Performance: 11.14210705730255
+Max Tile Performance: 11.0
+Assigned PR: 11.0
+Final Position:
+[4, 16, 64, 1024]
+[16, 128, 512, 4]
+[4, 64, 256, 128]
+[2, 4, 32, 2]
+
+Game 32:
+Final Score: 1464
+Logarithmic Performance: 8.826548487290914
+Max Tile Performance: 8.0
+Assigned PR: 8.0
+Final Position:
+[4, 16, 8, 2]
+[16, 128, 32, 16]
+[8, 64, 16, 8]
+[2, 128, 4, 2]
+
+Game 33:
+Final Score: 5400
+Logarithmic Performance: 10.296916206879288
+Max Tile Performance: 10.0
+Assigned PR: 10.0
+Final Position:
+[4, 16, 4, 2]
+[256, 8, 32, 64]
+[2, 16, 64, 16]
+[512, 256, 4, 2]
+
+Game 34:
+Final Score: 6896
+Logarithmic Performance: 10.413627929024173
+Max Tile Performance: 10.0
+Assigned PR: 10.0
+Final Position:
+[2, 512, 8, 4]
+[8, 16, 32, 8]
+[16, 32, 64, 2]
+[512, 128, 16, 4]
+
+Game 35:
+Final Score: 4456
+Logarithmic Performance: 10.139551352398794
+Max Tile Performance: 10.0
+Assigned PR: 10.0
+Final Position:
+[2, 64, 8, 4]
+[8, 256, 128, 16]
+[16, 32, 64, 4]
+[8, 512, 4, 2]
+
+Game 36:
+Final Score: 4452
+Logarithmic Performance: 10.147204924942228
+Max Tile Performance: 10.0
+Assigned PR: 10.0
+Final Position:
+[2, 4, 8, 2]
+[4, 16, 128, 32]
+[2, 256, 32, 2]
+[512, 128, 2, 4]
+
+Game 37:
+Final Score: 6772
+Logarithmic Performance: 10.57742882803575
+Max Tile Performance: 10.0
+Assigned PR: 10.0
+Final Position:
+[512, 4, 32, 4]
+[8, 16, 256, 512]
+[2, 4, 32, 8]
+[4, 128, 4, 2]
+
+Game 38:
+Final Score: 1364
+Logarithmic Performance: 8.86418614465428
+Max Tile Performance: 9.0
+Assigned PR: 8.86418614465428
+Final Position:
+[2, 256, 2, 4]
+[4, 16, 32, 64]
+[8, 32, 8, 16]
+[2, 8, 4, 8]
+
+Game 39:
+Final Score: 6784
+Logarithmic Performance: 10.679480099505446
+Max Tile Performance: 11.0
+Assigned PR: 10.679480099505446
+Final Position:
+[2, 64, 4, 2]
+[128, 256, 64, 8]
+[8, 32, 8, 32]
+[2, 1024, 4, 2]
+
+Game 40:
+Final Score: 4060
+Logarithmic Performance: 10.079484783826816
+Max Tile Performance: 10.0
+Assigned PR: 10.0
+Final Position:
+[2, 4, 16, 512]
+[4, 32, 64, 256]
+[2, 16, 32, 64]
+[4, 64, 8, 2]
+
+Game 41:
+Final Score: 11636
+Logarithmic Performance: 11.239598529249124
+Max Tile Performance: 12.0
+Assigned PR: 11.239598529249124
+Final Position:
+[2, 32, 8, 2]
+[4, 64, 128, 64]
+[2, 4, 16, 2]
+[2048, 2, 32, 8]
+
+Game 42:
+Final Score: 5212
+Logarithmic Performance: 10.627533884472792
+Max Tile Performance: 11.0
+Assigned PR: 10.627533884472792
+Final Position:
+[1024, 256, 4, 2]
+[16, 128, 16, 4]
+[4, 64, 32, 8]
+[2, 4, 16, 2]
+
+Game 43:
+Final Score: 3548
+Logarithmic Performance: 10.087462841250339
+Max Tile Performance: 10.0
+Assigned PR: 10.0
+Final Position:
+[4, 512, 8, 2]
+[2, 256, 16, 32]
+[64, 32, 128, 8]
+[2, 4, 16, 2]
+
+Game 44:
+Final Score: 7456
+Logarithmic Performance: 10.868822554774999
+Max Tile Performance: 11.0
+Assigned PR: 10.868822554774999
+Final Position:
+[2, 512, 4, 2]
+[4, 16, 32, 8]
+[8, 128, 64, 16]
+[16, 32, 2, 1024]
+
+Game 45:
+Final Score: 9172
+Logarithmic Performance: 11.026523442519766
+Max Tile Performance: 11.0
+Assigned PR: 11.0
+Final Position:
+[1024, 512, 8, 2]
+[4, 256, 32, 4]
+[2, 128, 16, 8]
+[64, 16, 8, 2]
+
+Game 46:
+Final Score: 6152
+Logarithmic Performance: 10.25502856981873
+Max Tile Performance: 11.0
+Assigned PR: 10.25502856981873
+Final Position:
+[4, 2, 8, 2]
+[2, 16, 4, 32]
+[8, 32, 16, 1024]
+[2, 64, 4, 2]
+
+Game 47:
+Final Score: 13252
+Logarithmic Performance: 11.293471648838134
+Max Tile Performance: 12.0
+Assigned PR: 11.293471648838134
+Final Position:
+[8, 32, 8, 16]
+[4, 256, 64, 4]
+[32, 16, 2, 8]
+[2, 2048, 8, 2]
+
+Game 48:
+Final Score: 8860
+Logarithmic Performance: 10.876516946565
+Max Tile Performance: 11.0
+Assigned PR: 10.876516946565
+Final Position:
+[16, 512, 8, 2]
+[2, 64, 128, 8]
+[4, 32, 64, 4]
+[2, 1024, 8, 2]
+
+Game 49:
+Final Score: 8772
+Logarithmic Performance: 10.848622940429339
+Max Tile Performance: 11.0
+Assigned PR: 10.848622940429339
+Final Position:
+[512, 16, 128, 8]
+[8, 64, 32, 4]
+[2, 4, 16, 2]
+[4, 16, 1024, 4]
+
+Game 50:
+Final Score: 4956
+Logarithmic Performance: 10.303780748177102
+Max Tile Performance: 10.0
+Assigned PR: 10.0
+Final Position:
+[4, 2, 512, 2]
+[2, 16, 128, 256]
+[4, 32, 64, 128]
+[2, 16, 32, 64]
+
+Game 51:
+Final Score: 6536
+Logarithmic Performance: 10.411510988012072
+Max Tile Performance: 10.0
+Assigned PR: 10.0
+Final Position:
+[4, 16, 4, 2]
+[16, 2, 64, 512]
+[512, 128, 16, 64]
+[8, 4, 8, 2]
+
+Game 52:
+Final Score: 10700
+Logarithmic Performance: 10.859534786382653
+Max Tile Performance: 11.0
+Assigned PR: 10.859534786382653
+Final Position:
+[8, 32, 4, 2]
+[16, 128, 64, 4]
+[1024, 32, 16, 512]
+[2, 4, 2, 8]
+
+Game 53:
+Final Score: 10416
+Logarithmic Performance: 11.14210705730255
+Max Tile Performance: 11.0
+Assigned PR: 11.0
+Final Position:
+[2, 64, 1024, 4]
+[16, 32, 256, 2]
+[4, 256, 64, 4]
+[2, 512, 16, 2]
+
+Game 54:
+Final Score: 10352
+Logarithmic Performance: 10.851749041416058
+Max Tile Performance: 11.0
+Assigned PR: 10.851749041416058
+Final Position:
+[2, 128, 32, 2]
+[8, 64, 512, 4]
+[32, 16, 8, 2]
+[8, 2, 1024, 4]
+
+Game 55:
+Final Score: 4320
+Logarithmic Performance: 10.092757140919852
+Max Tile Performance: 10.0
+Assigned PR: 10.0
+Final Position:
+[2, 32, 8, 2]
+[8, 64, 128, 256]
+[16, 32, 16, 8]
+[4, 2, 512, 2]
+
+Game 56:
+Final Score: 4036
+Logarithmic Performance: 9.991521846075695
+Max Tile Performance: 10.0
+Assigned PR: 9.991521846075695
+Final Position:
+[512, 2, 8, 2]
+[16, 8, 32, 4]
+[4, 128, 256, 16]
+[16, 8, 4, 2]
+
+Game 57:
+Final Score: 8756
+Logarithmic Performance: 11.051208940914766
+Max Tile Performance: 11.0
+Assigned PR: 11.0
+Final Position:
+[1024, 512, 4, 2]
+[256, 128, 16, 4]
+[16, 32, 64, 32]
+[4, 8, 16, 4]
+
+Game 58:
+Final Score: 9948
+Logarithmic Performance: 10.857980995127573
+Max Tile Performance: 11.0
+Assigned PR: 10.857980995127573
+Final Position:
+[64, 2, 16, 2]
+[4, 512, 32, 4]
+[16, 32, 128, 2]
+[8, 2, 8, 1024]
+
+Game 59:
+Final Score: 7304
+Logarithmic Performance: 10.45532722030456
+Max Tile Performance: 10.0
+Assigned PR: 10.0
+Final Position:
+[4, 16, 4, 2]
+[8, 64, 32, 4]
+[512, 32, 128, 16]
+[2, 64, 512, 4]
+
+Game 60:
+Final Score: 1792
+Logarithmic Performance: 9.0
+Max Tile Performance: 8.0
+Assigned PR: 8.0
+Final Position:
+[2, 8, 16, 128]
+[4, 16, 32, 64]
+[8, 128, 64, 16]
+[4, 16, 4, 2]
+
+Game 61:
+Final Score: 7492
+Logarithmic Performance: 10.57553924683453
+Max Tile Performance: 10.0
+Assigned PR: 10.0
+Final Position:
+[2, 32, 512, 2]
+[16, 128, 2, 4]
+[4, 16, 32, 2]
+[2, 4, 256, 512]
+
+Game 62:
+Final Score: 9680
+Logarithmic Performance: 10.848622940429339
+Max Tile Performance: 11.0
+Assigned PR: 10.848622940429339
+Final Position:
+[4, 16, 8, 2]
+[16, 32, 128, 4]
+[4, 16, 512, 64]
+[8, 4, 2, 1024]
+
+Game 63:
+Final Score: 2168
+Logarithmic Performance: 9.194756854422248
+Max Tile Performance: 9.0
+Assigned PR: 9.0
+Final Position:
+[8, 16, 4, 2]
+[128, 32, 64, 4]
+[2, 16, 8, 32]
+[4, 8, 2, 256]
+
+Game 64:
+Final Score: 9752
+Logarithmic Performance: 10.902375114486025
+Max Tile Performance: 11.0
+Assigned PR: 10.902375114486025
+Final Position:
+[4, 8, 4, 2]
+[16, 2, 32, 8]
+[4, 32, 4, 256]
+[2, 4, 512, 1024]
+
+Game 65:
+Final Score: 6060
+Logarithmic Performance: 10.754887502163468
+Max Tile Performance: 11.0
+Assigned PR: 10.754887502163468
+Final Position:
+[64, 4, 16, 2]
+[8, 32, 8, 4]
+[4, 1024, 512, 16]
+[16, 8, 2, 8]
+
+Game 66:
+Final Score: 3948
+Logarithmic Performance: 10.074141462752506
+Max Tile Performance: 10.0
+Assigned PR: 10.0
+Final Position:
+[2, 128, 16, 8]
+[8, 32, 4, 2]
+[16, 64, 16, 512]
+[4, 2, 256, 8]
+
+Game 67:
+Final Score: 3364
+Logarithmic Performance: 9.807354922057604
+Max Tile Performance: 10.0
+Assigned PR: 9.807354922057604
+Final Position:
+[4, 2, 512, 2]
+[2, 16, 32, 64]
+[8, 64, 128, 16]
+[2, 32, 8, 4]
+
+Game 68:
+Final Score: 1912
+Logarithmic Performance: 9.113742166049189
+Max Tile Performance: 9.0
+Assigned PR: 9.0
+Final Position:
+[16, 2, 8, 2]
+[2, 8, 64, 16]
+[256, 4, 32, 4]
+[128, 2, 8, 2]
+
+Game 69:
+Final Score: 5444
+Logarithmic Performance: 10.29920801838728
+Max Tile Performance: 10.0
+Assigned PR: 10.0
+Final Position:
+[8, 2, 512, 2]
+[2, 64, 8, 16]
+[4, 16, 32, 64]
+[8, 512, 8, 2]
+
+Game 70:
+Final Score: 6404
+Logarithmic Performance: 10.873444112515376
+Max Tile Performance: 11.0
+Assigned PR: 10.873444112515376
+Final Position:
+[2, 32, 4, 1024]
+[8, 128, 512, 64]
+[2, 8, 64, 16]
+[4, 2, 4, 2]
+
+Game 71:
+Final Score: 5124
+Logarithmic Performance: 10.519636252843213
+Max Tile Performance: 10.0
+Assigned PR: 10.0
+Final Position:
+[2, 256, 128, 32]
+[512, 128, 64, 16]
+[256, 32, 16, 8]
+[4, 8, 4, 2]
+
+Game 72:
+Final Score: 5612
+Logarithmic Performance: 10.207014320177532
+Max Tile Performance: 10.0
+Assigned PR: 10.0
+Final Position:
+[2, 16, 512, 2]
+[8, 64, 32, 256]
+[2, 16, 128, 64]
+[4, 8, 64, 4]
+
+Game 73:
+Final Score: 3932
+Logarithmic Performance: 10.052568050804153
+Max Tile Performance: 10.0
+Assigned PR: 10.0
+Final Position:
+[4, 16, 8, 2]
+[2, 4, 64, 128]
+[4, 32, 16, 512]
+[256, 2, 8, 4]
+
+Game 74:
+Final Score: 8060
+Logarithmic Performance: 10.902375114486025
+Max Tile Performance: 11.0
+Assigned PR: 10.902375114486025
+Final Position:
+[4, 16, 1024, 4]
+[2, 8, 128, 8]
+[4, 16, 512, 16]
+[8, 32, 128, 4]
+
+Game 75:
+Final Score: 3144
+Logarithmic Performance: 9.721099188707186
+Max Tile Performance: 10.0
+Assigned PR: 9.721099188707186
+Final Position:
+[2, 16, 4, 2]
+[32, 64, 128, 16]
+[4, 16, 2, 32]
+[2, 4, 512, 8]
+
+Game 76:
+Final Score: 8864
+Logarithmic Performance: 10.802516365121223
+Max Tile Performance: 11.0
+Assigned PR: 10.802516365121223
+Final Position:
+[2, 4, 2, 1024]
+[8, 128, 16, 8]
+[256, 2, 64, 4]
+[2, 8, 256, 2]
+
+Game 77:
+Final Score: 3264
+Logarithmic Performance: 10.071462362556623
+Max Tile Performance: 10.0
+Assigned PR: 10.0
+Final Position:
+[64, 16, 4, 2]
+[2, 128, 512, 4]
+[4, 256, 32, 16]
+[8, 16, 4, 8]
+
+Game 78:
+Final Score: 8668
+Logarithmic Performance: 10.759888183221834
+Max Tile Performance: 11.0
+Assigned PR: 10.759888183221834
+Final Position:
+[4, 16, 4, 2]
+[32, 64, 8, 4]
+[4, 512, 32, 1024]
+[2, 16, 8, 2]
+
+Game 79:
+Final Score: 2332
+Logarithmic Performance: 9.266786540694902
+Max Tile Performance: 9.0
+Assigned PR: 9.0
+Final Position:
+[64, 2, 4, 2]
+[8, 16, 8, 128]
+[16, 8, 32, 256]
+[4, 2, 64, 2]
+
+Game 80:
+Final Score: 4012
+Logarithmic Performance: 10.011227255423254
+Max Tile Performance: 10.0
+Assigned PR: 10.0
+Final Position:
+[256, 8, 2, 8]
+[4, 16, 32, 16]
+[64, 4, 64, 512]
+[32, 8, 4, 2]
+
+Game 81:
+Final Score: 9208
+Logarithmic Performance: 10.847057346091336
+Max Tile Performance: 11.0
+Assigned PR: 10.847057346091336
+Final Position:
+[2, 8, 32, 2]
+[4, 64, 8, 512]
+[16, 128, 4, 2]
+[2, 32, 2, 1024]
+
+Game 82:
+Final Score: 6852
+Logarithmic Performance: 10.567956075415466
+Max Tile Performance: 11.0
+Assigned PR: 10.567956075415466
+Final Position:
+[4, 64, 4, 2]
+[16, 256, 32, 4]
+[2, 16, 64, 16]
+[8, 2, 4, 1024]
+
+Game 83:
+Final Score: 11084
+Logarithmic Performance: 10.997179480937621
+Max Tile Performance: 11.0
+Assigned PR: 10.997179480937621
+Final Position:
+[2, 8, 2, 4]
+[512, 256, 64, 8]
+[2, 4, 128, 1024]
+[16, 8, 4, 2]
+
+Game 84:
+Final Score: 2056
+Logarithmic Performance: 9.339850002884624
+Max Tile Performance: 9.0
+Assigned PR: 9.0
+Final Position:
+[2, 4, 8, 2]
+[8, 64, 32, 8]
+[2, 32, 128, 256]
+[32, 2, 64, 4]
+
+Game 85:
+Final Score: 8756
+Logarithmic Performance: 10.85642552862553
+Max Tile Performance: 11.0
+Assigned PR: 10.85642552862553
+Final Position:
+[8, 2, 8, 2]
+[128, 64, 32, 4]
+[8, 32, 512, 1024]
+[16, 8, 4, 2]
+
+Game 86:
+Final Score: 7864
+Logarithmic Performance: 10.656424863277781
+Max Tile Performance: 11.0
+Assigned PR: 10.656424863277781
+Final Position:
+[4, 2, 8, 16]
+[16, 32, 16, 32]
+[2, 64, 128, 1024]
+[8, 256, 4, 2]
+
+Game 87:
+Final Score: 8372
+Logarithmic Performance: 10.614709844115207
+Max Tile Performance: 11.0
+Assigned PR: 10.614709844115207
+Final Position:
+[128, 2, 256, 4]
+[16, 4, 32, 2]
+[4, 64, 16, 8]
+[2, 1024, 2, 4]
+
+Game 88:
+Final Score: 3788
+Logarithmic Performance: 10.14210705730255
+Max Tile Performance: 10.0
+Assigned PR: 10.0
+Final Position:
+[8, 128, 4, 2]
+[16, 256, 8, 4]
+[512, 128, 32, 8]
+[2, 16, 4, 2]
+
+Game 89:
+Final Score: 17324
+Logarithmic Performance: 12.041659151637214
+Max Tile Performance: 12.0
+Assigned PR: 12.0
+Final Position:
+[2048, 512, 8, 2]
+[1024, 256, 16, 4]
+[128, 64, 32, 8]
+[64, 32, 16, 2]
+
+Game 90:
+Final Score: 9156
+Logarithmic Performance: 10.741466986401146
+Max Tile Performance: 11.0
+Assigned PR: 10.741466986401146
+Final Position:
+[2, 128, 8, 2]
+[128, 256, 32, 4]
+[32, 64, 16, 8]
+[4, 2, 1024, 2]
+
+Game 91:
+Final Score: 22984
+Logarithmic Performance: 11.791162888555018
+Max Tile Performance: 12.0
+Assigned PR: 11.791162888555018
+Final Position:
+[2, 256, 2048, 4]
+[4, 16, 128, 8]
+[2, 4, 32, 1024]
+[8, 2, 4, 2]
+
+Game 92:
+Final Score: 6372
+Logarithmic Performance: 10.749869427396844
+Max Tile Performance: 11.0
+Assigned PR: 10.749869427396844
+Final Position:
+[4, 2, 4, 2]
+[2, 16, 32, 8]
+[32, 256, 64, 128]
+[1024, 128, 16, 4]
+
+Game 93:
+Final Score: 2164
+Logarithmic Performance: 9.247927513443585
+Max Tile Performance: 9.0
+Assigned PR: 9.0
+Final Position:
+[2, 32, 8, 2]
+[4, 128, 64, 32]
+[2, 16, 32, 16]
+[256, 4, 2, 8]
+
+Game 94:
+Final Score: 2352
+Logarithmic Performance: 9.357552004618084
+Max Tile Performance: 9.0
+Assigned PR: 9.0
+Final Position:
+[2, 64, 32, 2]
+[4, 128, 256, 8]
+[32, 64, 8, 32]
+[2, 16, 2, 4]
+
+Game 95:
+Final Score: 10532
+Logarithmic Performance: 10.94104760634058
+Max Tile Performance: 11.0
+Assigned PR: 10.94104760634058
+Final Position:
+[4, 2, 4, 2]
+[8, 64, 128, 4]
+[128, 32, 16, 512]
+[1024, 2, 32, 4]
+
+Game 96:
+Final Score: 13824
+Logarithmic Performance: 11.869593843240784
+Max Tile Performance: 12.0
+Assigned PR: 11.869593843240784
+Final Position:
+[2048, 256, 8, 2]
+[1024, 128, 16, 4]
+[128, 64, 32, 8]
+[16, 2, 4, 2]
+
+Game 97:
+Final Score: 6452
+Logarithmic Performance: 10.884170519108435
+Max Tile Performance: 11.0
+Assigned PR: 10.884170519108435
+Final Position:
+[512, 8, 4, 2]
+[2, 128, 64, 16]
+[4, 64, 32, 4]
+[16, 8, 1024, 2]
+
+Game 98:
+Final Score: 3560
+Logarithmic Performance: 9.703903573444663
+Max Tile Performance: 10.0
+Assigned PR: 9.703903573444663
+Final Position:
+[2, 8, 64, 4]
+[4, 16, 128, 2]
+[8, 32, 512, 8]
+[32, 8, 4, 2]
+
+Game 99:
+Final Score: 17036
+Logarithmic Performance: 11.541096615349524
+Max Tile Performance: 12.0
+Assigned PR: 11.541096615349524
+Final Position:
+[4, 8, 2, 4]
+[2, 256, 16, 512]
+[32, 4, 64, 2048]
+[2, 16, 8, 2]
+
+Game 100:
+Final Score: 6704
+Logarithmic Performance: 10.756556322524087
+Max Tile Performance: 11.0
+Assigned PR: 10.756556322524087
+Final Position:
+[1024, 16, 8, 2]
+[4, 64, 16, 4]
+[16, 2, 32, 512]
+[4, 16, 8, 2]
+
+Average PR: 10.302528162997344
+Maximum PR: 12.0
+Minimum PR: 8.0
+
+Average Score: 6875.44
+Maximum Score: 22984
+Minimum Score: 1364
+
+Total Time: 3651597ms
+Total Moves: 70245
+Average Move Time: 51.98
+
+Tile PR-Limited Games: 51 (51.0%)
+Log PR-Limited Games: 49 (49.0%)
