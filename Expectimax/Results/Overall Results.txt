@@ -1,0 +1,24 @@
+completed depth 4 in 6352.4 s and 102413 moves, averaging 62.03 ms/move
+PR: avg 10.97, max 12.66, min 9.0
+Score: avg 9371.1, max 31256, min 2248
+Log PR Limited: 67.0%
+Tile PR Limited: 33.0%
+
+completed depth 5 in 7971.3 s and 86295 moves, averaging 92.37 ms/move
+PR: avg 10.67, max 11.85, min 8.85
+Score: avg 7959.0, max 19468, min 1516
+Log PR Limited: 56.0%
+Tile PR Limited: 44.0%
+
+completed depth 6 in 24223.9 s and 120394 moves, averaging 201.21 ms/move
+PR: avg 11.17, max 12.66, min 9.68
+Score: avg 12557.1, max 39532, min 2940
+Log PR Limited: 54.0%
+Tile PR Limited: 46.0%
+
+completed depth 7 in 35396.2 s and 127726 moves, averaging 277.13 ms/move
+PR: avg 11.25, max 12.51, min 8.0
+Score: avg 13114.6, max 33732, min 1172
+Log PR Limited: 67.0%
+Tile PR Limited: 33.0%
+

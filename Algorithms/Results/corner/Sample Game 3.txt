@@ -1,0 +1,945 @@
+Sample Game 3
+Move selected: Down
+
+Move 1
+Position:
+[0, 0, 0, 0]
+[0, 2, 0, 0]
+[0, 0, 0, 0]
+[4, 0, 0, 0]
+Move selected: Left
+
+Move 2
+Position:
+[0, 0, 0, 0]
+[2, 0, 0, 2]
+[0, 0, 0, 0]
+[4, 0, 0, 0]
+Move selected: Down
+
+Move 3
+Position:
+[0, 2, 0, 0]
+[0, 0, 0, 0]
+[2, 0, 0, 0]
+[4, 0, 0, 2]
+Move selected: Left
+
+Move 4
+Position:
+[2, 0, 0, 0]
+[0, 0, 0, 2]
+[2, 0, 0, 0]
+[4, 2, 0, 0]
+Move selected: Down
+
+Move 5
+Position:
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+[4, 2, 0, 0]
+[4, 2, 0, 2]
+Move selected: Left
+
+Move 6
+Position:
+[0, 0, 0, 0]
+[0, 2, 0, 0]
+[4, 2, 0, 0]
+[4, 4, 0, 0]
+Move selected: Down
+
+Move 7
+Position:
+[0, 0, 0, 0]
+[0, 0, 0, 2]
+[0, 4, 0, 0]
+[8, 4, 0, 0]
+Move selected: Left
+
+Move 8
+Position:
+[0, 0, 0, 0]
+[2, 0, 0, 0]
+[4, 0, 0, 0]
+[8, 4, 2, 0]
+Move selected: Up
+
+Move 9
+Position:
+[2, 4, 2, 0]
+[4, 0, 2, 0]
+[8, 0, 0, 0]
+[0, 0, 0, 0]
+Move selected: Left
+
+Move 10
+Position:
+[2, 4, 2, 2]
+[4, 2, 0, 0]
+[8, 0, 0, 0]
+[0, 0, 0, 0]
+Move selected: Down
+
+Move 11
+Position:
+[0, 0, 2, 0]
+[2, 0, 0, 0]
+[4, 4, 0, 0]
+[8, 2, 2, 2]
+Move selected: Left
+
+Move 12
+Position:
+[2, 4, 0, 0]
+[2, 0, 0, 0]
+[8, 0, 0, 0]
+[8, 4, 2, 0]
+Move selected: Down
+
+Move 13
+Position:
+[0, 0, 0, 0]
+[0, 0, 0, 0]
+[4, 0, 0, 0]
+[16, 8, 2, 2]
+Move selected: Left
+
+Move 14
+Position:
+[0, 0, 0, 0]
+[0, 2, 0, 0]
+[4, 0, 0, 0]
+[16, 8, 4, 0]
+Move selected: Down
+
+Move 15
+Position:
+[2, 0, 0, 0]
+[0, 0, 0, 0]
+[4, 2, 0, 0]
+[16, 8, 4, 0]
+Move selected: Down
+
+Move 16
+Position:
+[0, 0, 0, 0]
+[2, 0, 0, 2]
+[4, 2, 0, 0]
+[16, 8, 4, 0]
+Move selected: Down
+
+Move 17
+Position:
+[0, 0, 0, 0]
+[2, 0, 0, 0]
+[4, 2, 4, 0]
+[16, 8, 4, 2]
+Move selected: Down
+
+Move 18
+Position:
+[0, 2, 0, 0]
+[2, 0, 0, 0]
+[4, 2, 0, 0]
+[16, 8, 8, 2]
+Move selected: Down
+
+Move 19
+Position:
+[0, 2, 0, 0]
+[2, 0, 0, 0]
+[4, 4, 0, 0]
+[16, 8, 8, 2]
+Move selected: Left
+
+Move 20
+Position:
+[2, 0, 0, 2]
+[2, 0, 0, 0]
+[8, 0, 0, 0]
+[16, 16, 2, 0]
+Move selected: Down
+
+Move 21
+Position:
+[0, 0, 0, 0]
+[4, 0, 0, 2]
+[8, 0, 0, 0]
+[16, 16, 2, 2]
+Move selected: Left
+
+Move 22
+Position:
+[0, 0, 0, 0]
+[4, 2, 0, 0]
+[8, 0, 0, 0]
+[32, 4, 0, 2]
+Move selected: Down
+
+Move 23
+Position:
+[0, 0, 0, 0]
+[4, 0, 2, 0]
+[8, 2, 0, 0]
+[32, 4, 0, 2]
+Move selected: Left
+
+Move 24
+Position:
+[0, 0, 0, 0]
+[4, 2, 0, 2]
+[8, 2, 0, 0]
+[32, 4, 2, 0]
+Move selected: Down
+
+Move 25
+Position:
+[2, 0, 0, 0]
+[4, 0, 0, 0]
+[8, 4, 0, 0]
+[32, 4, 2, 2]
+Move selected: Left
+
+Move 26
+Position:
+[2, 0, 0, 2]
+[4, 0, 0, 0]
+[8, 4, 0, 0]
+[32, 4, 4, 0]
+Move selected: Down
+
+Move 27
+Position:
+[2, 0, 2, 0]
+[4, 0, 0, 0]
+[8, 0, 0, 0]
+[32, 8, 4, 2]
+Move selected: Left
+
+Move 28
+Position:
+[4, 0, 0, 0]
+[4, 0, 0, 0]
+[8, 0, 0, 4]
+[32, 8, 4, 2]
+Move selected: Down
+
+Move 29
+Position:
+[0, 0, 2, 0]
+[8, 0, 0, 0]
+[8, 0, 0, 4]
+[32, 8, 4, 2]
+Move selected: Left
+
+Move 30
+Position:
+[2, 0, 0, 2]
+[8, 0, 0, 0]
+[8, 4, 0, 0]
+[32, 8, 4, 2]
+Move selected: Down
+
+Move 31
+Position:
+[0, 2, 0, 0]
+[2, 0, 0, 0]
+[16, 4, 0, 0]
+[32, 8, 4, 4]
+Move selected: Left
+
+Move 32
+Position:
+[2, 0, 0, 0]
+[2, 0, 0, 2]
+[16, 4, 0, 0]
+[32, 8, 8, 0]
+Move selected: Down
+
+Move 33
+Position:
+[0, 0, 0, 0]
+[4, 2, 0, 0]
+[16, 4, 0, 0]
+[32, 8, 8, 2]
+Move selected: Left
+
+Move 34
+Position:
+[0, 0, 2, 0]
+[4, 2, 0, 0]
+[16, 4, 0, 0]
+[32, 16, 2, 0]
+Move selected: Down
+
+Move 35
+Position:
+[0, 0, 0, 0]
+[4, 2, 0, 0]
+[16, 4, 2, 0]
+[32, 16, 4, 0]
+Move selected: Up
+
+Move 36
+Position:
+[4, 2, 2, 2]
+[16, 4, 4, 0]
+[32, 16, 0, 0]
+[0, 0, 0, 0]
+Move selected: Down
+
+Move 37
+Position:
+[0, 0, 2, 0]
+[4, 2, 0, 0]
+[16, 4, 2, 0]
+[32, 16, 4, 2]
+Move selected: Left
+
+Move 38
+Position:
+[2, 0, 0, 0]
+[4, 2, 4, 0]
+[16, 4, 2, 0]
+[32, 16, 4, 2]
+Move selected: Up
+
+Move 39
+Position:
+[2, 2, 4, 2]
+[4, 4, 2, 0]
+[16, 16, 4, 2]
+[32, 0, 0, 0]
+Move selected: Left
+
+Move 40
+Position:
+[4, 4, 2, 0]
+[8, 2, 0, 0]
+[32, 4, 2, 0]
+[32, 0, 0, 4]
+Move selected: Down
+
+Move 41
+Position:
+[0, 2, 0, 0]
+[4, 4, 0, 0]
+[8, 2, 0, 0]
+[64, 4, 4, 4]
+Move selected: Left
+
+Move 42
+Position:
+[2, 2, 0, 0]
+[8, 0, 0, 0]
+[8, 2, 0, 0]
+[64, 8, 4, 0]
+Move selected: Down
+
+Move 43
+Position:
+[0, 0, 0, 0]
+[2, 2, 0, 0]
+[16, 4, 0, 0]
+[64, 8, 4, 0]
+Move selected: Left
+
+Move 44
+Position:
+[0, 0, 0, 0]
+[4, 0, 0, 0]
+[16, 4, 2, 0]
+[64, 8, 4, 0]
+Move selected: Up
+
+Move 45
+Position:
+[4, 4, 2, 0]
+[16, 8, 4, 0]
+[64, 0, 0, 0]
+[0, 0, 4, 0]
+Move selected: Left
+
+Move 46
+Position:
+[8, 2, 0, 0]
+[16, 8, 4, 0]
+[64, 0, 0, 0]
+[4, 0, 0, 2]
+Move selected: Down
+
+Move 47
+Position:
+[8, 0, 0, 0]
+[16, 0, 0, 0]
+[64, 2, 0, 2]
+[4, 8, 4, 2]
+Move selected: Left
+
+Move 48
+Position:
+[8, 2, 0, 0]
+[16, 0, 0, 0]
+[64, 4, 0, 0]
+[4, 8, 4, 2]
+Move selected: Down
+
+Move 49
+Position:
+[8, 0, 0, 2]
+[16, 2, 0, 0]
+[64, 4, 0, 0]
+[4, 8, 4, 2]
+Move selected: Left
+
+Move 50
+Position:
+[8, 2, 0, 0]
+[16, 2, 0, 2]
+[64, 4, 0, 0]
+[4, 8, 4, 2]
+Move selected: Down
+
+Move 51
+Position:
+[8, 0, 0, 0]
+[16, 4, 0, 0]
+[64, 4, 2, 0]
+[4, 8, 4, 4]
+Move selected: Left
+
+Move 52
+Position:
+[8, 0, 0, 0]
+[16, 4, 0, 0]
+[64, 4, 2, 2]
+[4, 8, 8, 0]
+Move selected: Down
+
+Move 53
+Position:
+[8, 4, 0, 0]
+[16, 0, 0, 0]
+[64, 8, 2, 0]
+[4, 8, 8, 2]
+Move selected: Left
+
+Move 54
+Position:
+[8, 4, 0, 0]
+[16, 0, 0, 0]
+[64, 8, 2, 0]
+[4, 16, 2, 2]
+Move selected: Down
+
+Move 55
+Position:
+[8, 0, 0, 0]
+[16, 4, 0, 2]
+[64, 8, 0, 0]
+[4, 16, 4, 2]
+Move selected: Left
+
+Move 56
+Position:
+[8, 2, 0, 0]
+[16, 4, 2, 0]
+[64, 8, 0, 0]
+[4, 16, 4, 2]
+Move selected: Down
+
+Move 57
+Position:
+[8, 2, 0, 0]
+[16, 4, 2, 0]
+[64, 8, 2, 0]
+[4, 16, 4, 2]
+Move selected: Down
+
+Move 58
+Position:
+[8, 2, 0, 0]
+[16, 4, 0, 0]
+[64, 8, 4, 2]
+[4, 16, 4, 2]
+Move selected: Down
+
+Move 59
+Position:
+[8, 2, 0, 0]
+[16, 4, 2, 0]
+[64, 8, 0, 0]
+[4, 16, 8, 4]
+Move selected: Down
+
+Move 60
+Position:
+[8, 2, 0, 2]
+[16, 4, 0, 0]
+[64, 8, 2, 0]
+[4, 16, 8, 4]
+Move selected: Down
+
+Move 61
+Position:
+[8, 2, 2, 0]
+[16, 4, 0, 0]
+[64, 8, 2, 2]
+[4, 16, 8, 4]
+Move selected: Left
+
+Move 62
+Position:
+[8, 4, 0, 2]
+[16, 4, 0, 0]
+[64, 8, 4, 0]
+[4, 16, 8, 4]
+Move selected: Down
+
+Move 63
+Position:
+[8, 2, 0, 0]
+[16, 8, 0, 0]
+[64, 8, 4, 2]
+[4, 16, 8, 4]
+Move selected: Down
+
+Move 64
+Position:
+[8, 2, 0, 0]
+[16, 2, 0, 0]
+[64, 16, 4, 2]
+[4, 16, 8, 4]
+Move selected: Down
+
+Move 65
+Position:
+[8, 0, 0, 0]
+[16, 0, 2, 0]
+[64, 4, 4, 2]
+[4, 32, 8, 4]
+Move selected: Left
+
+Move 66
+Position:
+[8, 0, 0, 0]
+[16, 2, 0, 2]
+[64, 8, 2, 0]
+[4, 32, 8, 4]
+Move selected: Down
+
+Move 67
+Position:
+[8, 0, 2, 0]
+[16, 2, 0, 0]
+[64, 8, 2, 2]
+[4, 32, 8, 4]
+Move selected: Left
+
+Move 68
+Position:
+[8, 2, 0, 2]
+[16, 2, 0, 0]
+[64, 8, 4, 0]
+[4, 32, 8, 4]
+Move selected: Down
+
+Move 69
+Position:
+[8, 0, 2, 0]
+[16, 4, 0, 0]
+[64, 8, 4, 2]
+[4, 32, 8, 4]
+Move selected: Left
+
+Move 70
+Position:
+[8, 2, 2, 0]
+[16, 4, 0, 0]
+[64, 8, 4, 2]
+[4, 32, 8, 4]
+Move selected: Down
+
+Move 71
+Position:
+[8, 2, 0, 2]
+[16, 4, 2, 0]
+[64, 8, 4, 2]
+[4, 32, 8, 4]
+Move selected: Left
+
+Move 72
+Position:
+[8, 4, 2, 0]
+[16, 4, 2, 0]
+[64, 8, 4, 2]
+[4, 32, 8, 4]
+Move selected: Down
+
+Move 73
+Position:
+[8, 2, 0, 0]
+[16, 8, 4, 0]
+[64, 8, 4, 2]
+[4, 32, 8, 4]
+Move selected: Down
+
+Move 74
+Position:
+[8, 0, 0, 0]
+[16, 2, 2, 0]
+[64, 16, 8, 2]
+[4, 32, 8, 4]
+Move selected: Down
+
+Move 75
+Position:
+[8, 0, 0, 2]
+[16, 2, 0, 0]
+[64, 16, 2, 2]
+[4, 32, 16, 4]
+Move selected: Left
+
+Move 76
+Position:
+[8, 2, 0, 0]
+[16, 2, 2, 0]
+[64, 16, 4, 0]
+[4, 32, 16, 4]
+Move selected: Down
+
+Move 77
+Position:
+[8, 0, 0, 0]
+[16, 4, 2, 0]
+[64, 16, 4, 2]
+[4, 32, 16, 4]
+Move selected: Up
+
+Move 78
+Position:
+[8, 4, 2, 2]
+[16, 16, 4, 4]
+[64, 32, 16, 0]
+[4, 2, 0, 0]
+Move selected: Down
+
+Move 79
+Position:
+[8, 4, 0, 0]
+[16, 16, 2, 2]
+[64, 32, 4, 2]
+[4, 2, 16, 4]
+Move selected: Left
+
+Move 80
+Position:
+[8, 4, 0, 0]
+[32, 4, 2, 0]
+[64, 32, 4, 2]
+[4, 2, 16, 4]
+Move selected: Down
+
+Move 81
+Position:
+[8, 0, 2, 0]
+[32, 8, 2, 0]
+[64, 32, 4, 2]
+[4, 2, 16, 4]
+Move selected: Left
+
+Move 82
+Position:
+[8, 2, 0, 0]
+[32, 8, 2, 2]
+[64, 32, 4, 2]
+[4, 2, 16, 4]
+Move selected: Down
+
+Move 83
+Position:
+[8, 2, 2, 0]
+[32, 8, 2, 0]
+[64, 32, 4, 4]
+[4, 2, 16, 4]
+Move selected: Left
+
+Move 84
+Position:
+[8, 4, 0, 4]
+[32, 8, 2, 0]
+[64, 32, 8, 0]
+[4, 2, 16, 4]
+Move selected: Down
+
+Move 85
+Position:
+[8, 4, 0, 0]
+[32, 8, 2, 0]
+[64, 32, 8, 2]
+[4, 2, 16, 8]
+Move selected: Up
+
+Move 86
+Position:
+[8, 4, 2, 2]
+[32, 8, 8, 8]
+[64, 32, 16, 0]
+[4, 2, 2, 0]
+Move selected: Down
+
+Move 87
+Position:
+[8, 4, 2, 2]
+[32, 8, 8, 0]
+[64, 32, 16, 2]
+[4, 2, 2, 8]
+Move selected: Left
+
+Move 88
+Position:
+[8, 4, 4, 0]
+[32, 16, 0, 2]
+[64, 32, 16, 2]
+[4, 4, 8, 0]
+Move selected: Down
+
+Move 89
+Position:
+[8, 4, 0, 2]
+[32, 16, 4, 0]
+[64, 32, 16, 0]
+[4, 4, 8, 4]
+Move selected: Left
+
+Move 90
+Position:
+[8, 4, 2, 0]
+[32, 16, 4, 0]
+[64, 32, 16, 4]
+[8, 8, 4, 0]
+Move selected: Down
+
+Move 91
+Position:
+[8, 4, 2, 2]
+[32, 16, 4, 0]
+[64, 32, 16, 0]
+[8, 8, 4, 4]
+Move selected: Left
+
+Move 92
+Position:
+[8, 4, 4, 0]
+[32, 16, 4, 0]
+[64, 32, 16, 0]
+[16, 8, 0, 2]
+Move selected: Down
+
+Move 93
+Position:
+[8, 4, 0, 4]
+[32, 16, 0, 0]
+[64, 32, 8, 0]
+[16, 8, 16, 2]
+Move selected: Left
+
+Move 94
+Position:
+[8, 8, 0, 0]
+[32, 16, 0, 2]
+[64, 32, 8, 0]
+[16, 8, 16, 2]
+Move selected: Down
+
+Move 95
+Position:
+[8, 8, 0, 0]
+[32, 16, 0, 2]
+[64, 32, 8, 0]
+[16, 8, 16, 4]
+Move selected: Left
+
+Move 96
+Position:
+[16, 0, 0, 0]
+[32, 16, 2, 2]
+[64, 32, 8, 0]
+[16, 8, 16, 4]
+Move selected: Down
+
+Move 97
+Position:
+[16, 0, 0, 2]
+[32, 16, 2, 0]
+[64, 32, 8, 2]
+[16, 8, 16, 4]
+Move selected: Left
+
+Move 98
+Position:
+[16, 2, 2, 0]
+[32, 16, 2, 0]
+[64, 32, 8, 2]
+[16, 8, 16, 4]
+Move selected: Down
+
+Move 99
+Position:
+[16, 2, 0, 0]
+[32, 16, 4, 2]
+[64, 32, 8, 2]
+[16, 8, 16, 4]
+Move selected: Down
+
+Move 100
+Position:
+[16, 2, 0, 2]
+[32, 16, 4, 0]
+[64, 32, 8, 4]
+[16, 8, 16, 4]
+Move selected: Down
+
+Move 101
+Position:
+[16, 2, 0, 2]
+[32, 16, 4, 0]
+[64, 32, 8, 2]
+[16, 8, 16, 8]
+Move selected: Left
+
+Move 102
+Position:
+[16, 4, 2, 0]
+[32, 16, 4, 0]
+[64, 32, 8, 2]
+[16, 8, 16, 8]
+Move selected: Up
+
+Move 103
+Position:
+[16, 4, 2, 2]
+[32, 16, 4, 8]
+[64, 32, 8, 2]
+[16, 8, 16, 0]
+Move selected: Left
+
+Move 104
+Position:
+[16, 4, 4, 0]
+[32, 16, 4, 8]
+[64, 32, 8, 2]
+[16, 8, 16, 2]
+Move selected: Down
+
+Move 105
+Position:
+[16, 4, 2, 0]
+[32, 16, 8, 0]
+[64, 32, 8, 8]
+[16, 8, 16, 4]
+Move selected: Left
+
+Move 106
+Position:
+[16, 4, 2, 2]
+[32, 16, 8, 0]
+[64, 32, 16, 0]
+[16, 8, 16, 4]
+Move selected: Down
+
+Move 107
+Position:
+[16, 4, 0, 2]
+[32, 16, 2, 0]
+[64, 32, 8, 2]
+[16, 8, 32, 4]
+Move selected: Left
+
+Move 108
+Position:
+[16, 4, 2, 0]
+[32, 16, 2, 2]
+[64, 32, 8, 2]
+[16, 8, 32, 4]
+Move selected: Down
+
+Move 109
+Position:
+[16, 4, 0, 2]
+[32, 16, 4, 0]
+[64, 32, 8, 4]
+[16, 8, 32, 4]
+Move selected: Left
+
+Move 110
+Position:
+[16, 4, 2, 2]
+[32, 16, 4, 0]
+[64, 32, 8, 4]
+[16, 8, 32, 4]
+Move selected: Down
+
+Move 111
+Position:
+[16, 4, 2, 4]
+[32, 16, 4, 0]
+[64, 32, 8, 2]
+[16, 8, 32, 8]
+Move selected: Down
+
+Move 112
+Position:
+[16, 4, 2, 2]
+[32, 16, 4, 4]
+[64, 32, 8, 2]
+[16, 8, 32, 8]
+Move selected: Left
+
+Move 113
+Position:
+[16, 4, 4, 2]
+[32, 16, 8, 0]
+[64, 32, 8, 2]
+[16, 8, 32, 8]
+Move selected: Left
+
+Move 114
+Position:
+[16, 8, 2, 4]
+[32, 16, 8, 0]
+[64, 32, 8, 2]
+[16, 8, 32, 8]
+Move selected: Down
+
+Move 115
+Position:
+[16, 8, 0, 2]
+[32, 16, 2, 4]
+[64, 32, 16, 2]
+[16, 8, 32, 8]
+Move selected: Left
+
+Move 116
+Position:
+[16, 8, 2, 4]
+[32, 16, 2, 4]
+[64, 32, 16, 2]
+[16, 8, 32, 8]
+Move selected: Down
+
+Move 117
+Position:
+[16, 8, 2, 0]
+[32, 16, 4, 8]
+[64, 32, 16, 2]
+[16, 8, 32, 8]
+Move selected: Up
+
+Move 118
+Position:
+[16, 8, 2, 8]
+[32, 16, 4, 2]
+[64, 32, 16, 8]
+[16, 8, 32, 2]
